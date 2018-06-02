@@ -8,3 +8,5 @@ api
 4. Run ./manage.py makemigrations followed by ./manage.py migrate
 5. Create user for testing purposes using ./manage.py createsuperuser
 6. Run app using ./manage.py runserver
+
+If ./manage.py command is denied aplly chmod+x to the file under bash to grant user privileges
